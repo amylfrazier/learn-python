@@ -6,5 +6,6 @@ def main():
     print("How old are you in months?")
     myAgeMonths = input()
     print("Your full name is " + myFirstName + " " + myLastName + ".")
+    print( str(myAgeMonths/12))
 if __name__ == "__main__":
     main()
