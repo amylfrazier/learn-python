@@ -15,4 +15,7 @@ Q3:
     3 Data Types: integer, string, floating-point
 
 Q5:
-    A statement says the value 
+    A statement holds a value while an expression evaluates what is written.
+
+Q6:
+    
