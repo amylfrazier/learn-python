@@ -1,0 +1,18 @@
+Q1: 
+    * is an operator
+    'hello' is a value
+    -88.8 is a value
+    - is an operator
+    / is an operator
+    + is an operator
+    5 is a value
+
+Q2:
+    spam is a variable
+    'spam' is a string
+
+Q3:
+    3 Data Types: integer, string, floating-point
+
+Q5:
+    A statement says the value 
