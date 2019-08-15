@@ -1,0 +1,35 @@
+Q1: 
+    * is an operator
+    'hello' is a value
+    -88.8 is a value
+    - is an operator
+    / is an operator
+    + is an operator
+    5 is a value
+
+Q2:
+    spam is a variable
+    'spam' is a string
+
+Q3:
+    3 Data Types: integer, string, floating-point
+
+Q5:
+    A statement holds a value while an expression evaluates what is written.
+
+Q6:
+    bacon will still eqal 20 but to change it to 21 you must write "bacon = bacon +1"
+
+Q7: 
+    'spam' + "spamspam" = spamspamspam
+    'spam' * 3 = spamspamspam
+
+Q8:
+    A variable name can't begin with a number and must be one word.
+
+Q9:
+    str(), int(), float()
+
+Q10:
+    99 is an integer than needs to be converted to an string and can be done so like this:
+    "I have eaten" + str(99) + "burritos."
