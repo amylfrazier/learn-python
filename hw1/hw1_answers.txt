@@ -18,7 +18,7 @@ Q5:
     A statement holds a value while an expression evaluates what is written.
 
 Q6:
-    bacon will equal 21
+    bacon will still eqal 20 but to change it to 21 you must write "bacon = bacon +1"
 
 Q7: 
     'spam' + "spamspam" = spamspamspam
