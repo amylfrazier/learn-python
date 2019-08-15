@@ -18,4 +18,18 @@ Q5:
     A statement holds a value while an expression evaluates what is written.
 
 Q6:
-    
+    bacon will equal 21
+
+Q7: 
+    'spam' + "spamspam" = spamspamspam
+    'spam' * 3 = spamspamspam
+
+Q8:
+    A variable name can't begin with a number and must be one word.
+
+Q9:
+    str, int, float
+
+Q10:
+    99 is an integer than needs to be converted to an integer and can be done so like this:
+    "I have eaten" + str(99) + "burritos."
