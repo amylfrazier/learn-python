@@ -16,7 +16,7 @@ def main():
 
     print( "Your full name is " + myFirstName + " " + myLastName + ". " + "You are " + str(int(myAgeMonths)//12) + " years and " + str(int(myAgeMonths)%12) + " months old.")
     print( "Your favorite color is " + myColor + " .")
-    print( "You were born in " + myBirthPlace + " and you have " + str(int(myFamily)) + " people in your family.")
+    print( "You were born in " + myBirthPlace + " and you have " + myFamily + " people in your family.")
     print( "Oh and your favorite bubbly water is that tsp tsp tsp ahhhh " + myWater + "!")
 if __name__ == "__main__":
     main()
